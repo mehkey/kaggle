@@ -23,10 +23,10 @@ python3 -m venv jenv
 source jenv/bin/activate
 
 #if you want to install required 
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 #check env
-which python
+which python3
 
 #Step 3
 pip install ipykernel
@@ -44,3 +44,13 @@ jupyter notebook
 
 https://learnpython.com/blog/python-requirements-file/
 https://realpython.com/python-virtual-environments-a-primer/
+
+
+
+* [netflix/](./projects/netflix)
+  * [Netflix.ipynb](./projects/netflix/Netflix.ipynb)
+  * [readme.md](./projects/netflix/readme.md)
+* [titanic/](./projects/titanic)
+  * [Titanic.ipynb](./projects/titanic/Titanic.ipynb)
+  * [readme.md](./projects/titanic/readme.md)
+
