@@ -3,5 +3,5 @@
 
 ## [Netflix dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## [Notebook](./netflix.ipynb)
+## [Notebook](./Netflix.ipynb)
 

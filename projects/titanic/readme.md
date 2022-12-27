@@ -3,7 +3,7 @@
 
 ## [Titanic dataset](https://www.kaggle.com/competitions/titanic/data)
 
-## [Notebook](./titanic.ipynb)
+## [Notebook](./Titanic.ipynb)
 
 ## [Titanic](https://www.kaggle.com/competitions/titanic/overview)
 
