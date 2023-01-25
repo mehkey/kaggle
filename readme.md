@@ -42,8 +42,10 @@ jupyter notebook
 
 ## References
 
-https://learnpython.com/blog/python-requirements-file/
-https://realpython.com/python-virtual-environments-a-primer/
+> https://learnpython.com/blog/python-requirements-file/
+
+> https://realpython.com/python-virtual-environments-a-primer/
+
 
 
 
