@@ -18,7 +18,6 @@
 python3 -m venv jenv
 #second parameter the name of the engv
 
-
 ##Step 2
 source jenv/bin/activate
 
@@ -38,7 +37,6 @@ python -m ipykernel install --name=jpy-venv
 jupyter notebook
 
 ```
-
 
 ## References
 
@@ -104,23 +102,6 @@ jupyter notebook
     * [InstagramETL.ipynb](./projects/instagramETL/InstagramETL.ipynb)
     * [instagram_profiles.csv](./projects/instagramETL/instagram_profiles.csv)
     * [readme.md](./projects/instagramETL/readme.md)
-  * [netflix/](./projects/netflix)
 
-    * [Netflix.ipynb](./projects/netflix/Netflix.ipynb)
-    * [netflix_titles.csv](./projects/netflix/netflix_titles.csv)
-    * [readme.md](./projects/netflix/readme.md)
-  * [titanic/](./projects/titanic)
 
-    * [Titanic.ipynb](./projects/titanic/Titanic.ipynb)
-    * [gender_submission.csv](./projects/titanic/gender_submission.csv)
-    * [readme.md](./projects/titanic/readme.md)
-    * [submission.csv](./projects/titanic/submission.csv)
-    * [test.csv](./projects/titanic/test.csv)
-    * [train.csv](./projects/titanic/train.csv)
-  * [twitterSentiment/](./projects/twitterSentiment)
 
-    * [TwitterSentiment.ipynb](./projects/twitterSentiment/TwitterSentiment.ipynb)
-    * [training.1600000.processed.noemoticon.csv](./projects/twitterSentiment/training.1600000.processed.noemoticon.csv)
-  * [weatherPrediction/](./projects/weatherPrediction)
-
-    * [WeatherPrediction.ipynb](./projects/weatherPrediction/WeatherPrediction.ipynb)
